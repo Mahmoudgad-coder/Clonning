@@ -1,4 +1,4 @@
-Deploying the Swiggy clone app with Terraform, Kubernetes, and Jenkins CICD.
+Deploying the Swiggy clone app
 Test200
 
 
